@@ -14,7 +14,7 @@
 🔹 **AI/ML**: 🧠 TensorFlow, 🔥 PyTorch, 📊 Scikit-learn, 🖼️ OpenCV  
 🔹 **Databases**: 🗄️ MongoDB, MySQL, SQLite  
 🔹 **Tools**: 🛠️ Git, 📝 VS Code, 📮 Postman, 🐳 Docker  
-🔹 **Certifications**: 🏅 IBM Credentials  
+🔹 **Certifications**: 🏅 IBM Credentials (https://drive.google.com/drive/u/0/folders/11GcNuyHtCDGrgyRpqo4PhmvtXdqhDik-)
 
 ---
 
