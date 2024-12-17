@@ -4,11 +4,12 @@
 💻 **Full Stack Developer** | 🤖 **AI/ML Enthusiast**  
 🌱 Passionate about solving real-world problems with code and intelligent systems.  
 📜 Certified in **AI/ML** with 🎓 **IBM SkillsBuild**.  
-✨ Skilled in **Flutter**, **React**, **Node.js**, and **Machine Learning**.  
+✨ Skilled in **Java** **Flutter**, **React**, **Node.js**, and **Machine Learning**.  
 
 ---
 
 ## 🛠️ Technologies & Tools  
+🔹 **Programming Languages**: Java, Python, JavaScript, C/C++  
 🔹 **Frontend**: 🖥️ React, 📱 Flutter, 🌐 HTML, CSS, JavaScript  
 🔹 **Backend**: ⚙️ Node.js, 🐍 Django, 🚀 Express.js  
 🔹 **AI/ML**: 🧠 TensorFlow, 🔥 PyTorch, 📊 Scikit-learn, 🖼️ OpenCV  
